@@ -14,7 +14,7 @@ public:
 	void flip();
 	const bool isItHeads();
 	const string getSideUp();
-	const int getStringValue();
+	const int getCentValue();
 
 
 };
